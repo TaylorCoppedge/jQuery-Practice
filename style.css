@@ -1,0 +1,26 @@
+#header {
+   background-color: peachpuff; 
+   font-family: cursive;
+   text-align: center;
+   padding: 10px 0;
+   display: flex;
+   justify-content: center;
+}
+
+.input {
+    color: red;
+}
+
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+
+ul {
+    font-family: papyrus;
+
+}
+
+form {
+    font-family: 'Courier New', Courier, monospace;
+}
